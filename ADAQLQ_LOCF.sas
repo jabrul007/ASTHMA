@@ -44,6 +44,8 @@ Source(raw) Dataset Library: libraw
 %let type = Datasets; 
 %let program = adaqlq22222; 
 
+%let this=Jabrul;
+
 /***********************************************************************/
 /*************                Programming Section         **************/
 /***********************************************************************/
